@@ -4,8 +4,8 @@
     <title>org-page</title>
     <link>http://your.personal.site.com/</link>
     <description>static site generator</description>
-    <pubDate>三, 03  2 2016 16:28:45 CST</pubDate>
-    <lastBuildDate>三, 03  2 2016 16:28:45 CST</lastBuildDate>
+    <pubDate>三, 03  2 2016 16:33:40 CST</pubDate>
+    <lastBuildDate>三, 03  2 2016 16:33:40 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,6 +14,11 @@
       <description><![CDATA[<div>
 <div class="post">
 <h1>about</h1>
+<p>
+## 他试水
+## 大家一起来
+### 啊打发打发吧·
+</p>
 
 </div>
 </div>]]></description>
